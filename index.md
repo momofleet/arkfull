@@ -1,0 +1,25 @@
+# 아이돌마스터 신데렐라 걸즈 아이돌 갤러리 아카이브
+## 보존된 아이돌 갤러리 목록
+* [momoka](idols/momoka)
+* [layla](idols/layla)
+## 보존된 기타 커뮤 목록
+* [his4](etc/commu/his4)
+* [his3](etc/commu/his3)
+* [his2](etc/commu/his2)
+* [his1](etc/commu/his1)
+* [didere](etc/commu/didere)
+* [ref2](etc/commu/ref2)
+* [ref1](etc/commu/ref1)
+* [tourop](etc/commu/tourop)
+* [tourmid](etc/commu/tourmid)
+* [toured](etc/commu/toured)
+* [tour1](etc/commu/tour1)
+* [tour2](etc/commu/tour2)
+* [tour3](etc/commu/tour3)
+* [tour4](etc/commu/tour4)
+* [tour5](etc/commu/tour5)
+* [tour6](etc/commu/tour6)
+* [tour7](etc/commu/tour7)
+* [tour8](etc/commu/tour8)
+## 보존된 푸치 프로필 목록
+* [puchi](etc/puchi/puchi)
